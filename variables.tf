@@ -1,9 +1,4 @@
 # required for YC
-variable "token" {
-    description = "Token"
-    type = string
-    default = "y0_AgAAAAAHl17-AATuwQAAAAEbNL0XAAATJwcRdX5JRZY6rJhAZO48QfxO4w"
-}
 variable "cloud_id" {
     description = "yandex cloud id"
     type = string
